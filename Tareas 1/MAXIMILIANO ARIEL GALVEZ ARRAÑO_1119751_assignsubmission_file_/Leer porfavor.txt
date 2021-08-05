@@ -1,0 +1,7 @@
+Estimado Profesor Oscar:
+	Junto con saludar, nos vemos en la obligación como grupo de comunicarle
+	que en nuestro código hemos ocupado la Biblioteca "cursor", la cual debe
+	ser instalada previamente con el Método pip. 
+	Muchas gracias!
+
+	Si llega a dar error la biblioteca de "cursor", se ruega omitirla en el código.
