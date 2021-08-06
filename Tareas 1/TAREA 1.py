@@ -10,7 +10,7 @@ def pos(x,y):
 # print(cl.Back.GREEN)
 os.system('cls')
 
-fil = 1
+fil = 2
 col = 1
 for fila in range(0,22):
     for columna in range(0,22):
