@@ -1,1 +1,1 @@
-print('Chao mundo')
+input('ingrese un valor')
